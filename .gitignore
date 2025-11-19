@@ -1,13 +1,50 @@
-.ipynb-checkpoints
-data-science-for-esm/data
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Jupyter Book build artifacts
+_build/
+.jupyter_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Data files (keep repository light)
 *.geojson
 *.nc
 *.tiff
 *.tif
+data/
+
+# Temporary HTML outputs from notebooks
 *.html
-*.png
-data-science-for-esm/tmp/
-data-science-for-esm/_build/
-data-science-for-esm/tmp.csv
+# But keep the logo
+!logo.png
+
+# Excel outputs from notebooks
+*.xlsx
+
+# Cleared notebooks
 *cleared.ipynb
-data
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude artifacts
+.claude/

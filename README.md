@@ -1,31 +1,81 @@
-# Data Science for Energy System Modelling
+# PyPSA Meets Earth Lab 2025
 
-Course at TU Berlin to learn energy system modelling with data.
+Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
 
-## Usage
+## About
 
-### Building the book
+This course provides hands-on training and practical examples for energy system modelling using PyPSA (Python for Power System Analysis). The materials are designed to help you understand and work with modern power and energy systems.
 
-If you'd like to develop and/or build the Data Science for Energy System Modelling book, you should:
+**Instructor:** Priyesh Gosai
+**Organization:** Innovate for Impact
+**Email:** priyesh@innovateimpact.com
 
-1. Clone this repository
-2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `data-science-for-esm/` directory
-4. Run `jupyter-book clean data-science-for-esm/` to remove any existing builds
-5. Run `jupyter-book build data-science-for-esm/`
+## Quick Start
 
-A fully-rendered HTML version of the book will be built in `data-science-for-esm/_build/html/`.
+### Option 1: View Online
 
-### Hosting the book
+Visit the course website at: https://priyeshgosai.github.io/pypsa-meets-earth-lab-2025/
 
-Please see the [Jupyter Book documentation](https://jupyterbook.org/publish/web.html) to discover options for deploying a book online using services such as GitHub, GitLab, or Netlify.
+### Option 2: Google Colab
 
-For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book) includes templates for, and information about, optional continuous integration (CI) workflow files to help easily and automatically deploy books online with GitHub or GitLab. For example, if you chose `github` for the `include_ci` cookiecutter option, your book template was created with a GitHub actions workflow file that, once pushed to GitHub, automatically renders and pushes your book to the `gh-pages` branch of your repo and hosts it on GitHub Pages when a push or pull request is made to the main branch.
+You can run the notebooks directly in your browser using Google Colab (no installation required):
+- Click the rocket icon at the top of any lesson page and select "Colab"
 
-## Contributors
+### Option 3: Local Installation
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/fneum/data-science-for-esm/graphs/contributors).
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025.git
+   cd pypsa-meets-earth-lab-2025
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Launch Jupyter Lab:**
+   ```bash
+   jupyter lab
+   ```
+
+## Building the Book
+
+If you'd like to build the Jupyter Book locally:
+
+1. **Install jupyter-book:**
+   ```bash
+   pip install "jupyter-book<2"
+   ```
+
+2. **Build the book:**
+   ```bash
+   jupyter-book clean . --all
+   jupyter-book build .
+   ```
+
+3. **View the book:**
+   Open `_build/html/index.html` in your browser
+
+## Course Contents
+
+- **Lesson 1:** PyPSA Demystified - Core concepts, best practices, and new features
+- **Lesson 2:** Advanced PyPSA - More complex modeling scenarios
+
+## Resources
+
+- **PyPSA Documentation:** https://pypsa.org
+- **PyPSA-Earth:** https://github.com/pypsa-meets-earth
+- **Course Repository:** https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025
+
+## License
+
+This course material is open source and available for educational purposes. See [LICENSE](LICENSE) for details.
+
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Credits
 
-This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
+This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/).

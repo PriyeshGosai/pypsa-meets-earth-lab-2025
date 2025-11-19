@@ -30,7 +30,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build data-science-for-esm
+        jupyter-book build .
 
     # cache notebooks
     - name: cache executed notebooks
@@ -46,7 +46,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
       with:
-        path: data-science-for-esm/_build/html
+        path: _build/html
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
