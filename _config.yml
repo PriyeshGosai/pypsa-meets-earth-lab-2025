@@ -13,7 +13,7 @@ logo: logo.png
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: cache
+  execute_notebooks: 'off'  # Don't execute notebooks, show them as-is
   timeout: 900  # 15 minutes
   allow_errors: true
 

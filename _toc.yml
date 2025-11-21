@@ -6,5 +6,7 @@ root: intro
 chapters:
 - file: Lesson_1
   title: "Lesson 1: PyPSA Demystified"
+- file: components
+  title: "PyPSA Components Reference"
 - file: Lesson_2
   title: "Lesson 2: Advanced PyPSA"
