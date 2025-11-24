@@ -23,6 +23,23 @@ Access the accompanying presentation at this link.
 
 [![Download PDF from GitHub](https://img.shields.io/badge/Download%20PDF-GitHub-black?logo=github)](https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/PyPSA-Introduction-V1.pdf)
 
+## Contact
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
+  <div>
+    <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
+    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Systems</p>
+    <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
+    <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
+    <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
+  </div>
+  <div>
+    <a href="https://pas-sa.co.za/">
+      <img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/pas-sa-logo.png" width="160" alt="PAS-SA">
+    </a>
+  </div>
+</div>
+
 ## Getting Started
 
 ### Option 1: Google Colab (Recommended for Beginners)
@@ -75,25 +92,6 @@ Each lesson includes:
 - **PyPSA Documentation:** [https://pypsa.org](https://pypsa.org)
 - **PyPSA-Earth:** [https://github.com/pypsa-meets-earth](https://github.com/pypsa-meets-earth)
 - **Course Repository:** [https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025](https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025)
-
-## Contact
-
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
-  <div>
-    <h3 style="margin-top: 0;">Session Instructor</h3>
-    <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
-    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Systems</p>
-    <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
-    <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
-    <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
-  </div>
-  <div>
-    <a href="https://pas-sa.co.za/">
-      <img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/pas-sa-logo.png" width="160" alt="PAS-SA">
-    </a>
-  </div>
-</div>
-
 
 ## License
 
