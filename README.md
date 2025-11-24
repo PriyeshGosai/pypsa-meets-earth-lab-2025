@@ -59,8 +59,32 @@ If you'd like to build the Jupyter Book locally:
 
 ## Course Contents
 
-- **Lesson 1:** PyPSA Demystified - Core concepts, best practices, and new features
-- **Lesson 2:** Advanced PyPSA - More complex modeling scenarios
+- **Part 1:** Getting started with PyPSA
+- **Part 2:** Developing a model using Excel
+- **Part 3: Compare scenarios**
+
+## Case Study Disclaimer
+
+**Disclaimer**
+
+This analysis employs a South African energy system case study developed exclusively for educational purposes. The model has been intentionally simplified and should not be construed as an accurate or comprehensive representation of the contemporary South African energy system. Consequently, this model is not suitable for application in substantive studies, policy analysis, or operational assessments pertaining to the South African power system.
+
+**Data Sources**
+
+The development of this model incorporates data and information from the following sources:
+
+* DeSantis, D., James, B.D., Houchins, C., Saur, G. and Lyubovsky, M. (2021) 'Cost of long-distance energy transmission by different carriers', *IScience*, 24(12).
+
+* Electric Power Research Institute (EPRI) (2024) 'Supply-Side Cost and Performance Data for Eskom Integrated Resource Planning: 2023–2024 Update', Technical Report 3002031032. Palo Alto, California: EPRI.
+
+* Eskom Transmission Division (2020) *Transmission Development Plan 2020–2029*. Johannesburg, South Africa: Eskom Holdings SOC.
+
+* Merven, B. (2024) 'ESRG Hourly Demand Model v2025 by Province', September. doi: 10.25375/uct.26942134.v5
+
+* Eskom Holdings SOC Ltd (2025) *Eskom*. Available at: https://www.eskom.co.za (Accessed: 24 November 2025).
+
+* Meridian Economics (n.d.) *PyPSA-RSA: An Open Optimisation Model of the South African Power System*. Available at: https://github.com/MeridianEconomics/pypsa-rsa
+
 
 ## Resources
 
