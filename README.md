@@ -8,9 +8,22 @@ Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository cont
 
 This course provides hands-on training and practical examples for energy system modelling using PyPSA (Python for Power System Analysis). The materials are designed to help you understand and work with modern power and energy systems.
 
-**Instructor:** Priyesh Gosai
-**Organization:** Innovate for Impact
-**Email:** priyesh@innovateimpact.com
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
+  <div>
+    <h3 style="margin-top: 0;">Instructor</h3>
+    <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
+    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Systems</p>
+    <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
+    <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
+    <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
+  </div>
+  <div>
+    <a href="https://pas-sa.co.za/">
+      <img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/pas-sa-logo.png" width="160" alt="PAS-SA">
+    </a>
+  </div>
+</div>
+
 
 ## Quick Start
 

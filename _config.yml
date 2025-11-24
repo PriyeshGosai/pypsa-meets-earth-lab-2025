@@ -8,7 +8,7 @@
 title: PyPSA Meets Earth Lab 2025
 author: Priyesh Gosai
 copyright: "2025"
-logo: logo.png
+logo: img/pypsa-meets-earth-lab-logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
