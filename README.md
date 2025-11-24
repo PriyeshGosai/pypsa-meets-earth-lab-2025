@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/top-banner.png" alt="Top Banner" width="100%">
+
 # PyPSA Meets Earth Lab 2025
 
 Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
