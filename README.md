@@ -6,7 +6,7 @@ Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository cont
 
 Access the accompanying presentation at this link:
 
-[![View PDF in GitHub](https://img.shields.io/badge/View%20PDF-GitHub-black?logo=github)](https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025/blob/main/PyPSA-Introduction-V1.pdf)
+[![Download PDF from GitHub](https://img.shields.io/badge/Download%20PDF-GitHub-black?logo=github)](https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/PyPSA-Introduction-V1.pdf)
 
 
 
