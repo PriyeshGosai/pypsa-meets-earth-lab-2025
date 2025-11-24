@@ -1,10 +1,12 @@
+<img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/top-banner.png" alt="Top Banner" width="100%">
+
 # Welcome to PyPSA Meets Earth Lab 2025
 
 Welcome to the **PyPSA Meets Earth Lab 2025** course materials! This course provides hands-on training and practical examples for energy system modelling using PyPSA (Python for Power System Analysis).
 
 ## About This Course
 
-This course is designed to help you understand and work with PyPSA, a powerful open-source framework for simulating and optimizing modern power and energy systems. Through interactive lessons and examples, you'll learn how to:
+Through interactive lessons and examples, you will learn how to:
 
 - Build and analyze energy system models
 - Work with network components (buses, generators, loads, lines, links)
@@ -70,9 +72,22 @@ Each lesson includes:
 
 ## Contact
 
-**Instructor:** Priyesh Gosai
-**Organization:** PAS-SA
-**Email:** pgosai@pas-sa.co.za
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
+  <div>
+    <h3 style="margin-top: 0;">Session Instructor</h3>
+    <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
+    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Systems</p>
+    <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
+    <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
+    <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
+  </div>
+  <div>
+    <a href="https://pas-sa.co.za/">
+      <img src="https://raw.githubusercontent.com/PriyeshGosai/pypsa-meets-earth-lab-2025/main/img/pas-sa-logo.png" width="160" alt="PAS-SA">
+    </a>
+  </div>
+</div>
+
 
 ## License
 
