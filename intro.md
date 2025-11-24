@@ -18,6 +18,11 @@ Through interactive lessons and examples, you will learn how to:
 
 The course includes interactive Jupyter notebooks that you can run in Google Colab or locally on your computer. Each lesson builds on previous concepts and includes practical examples.
 
+Access the accompanying presentation at this link. 
+
+[![View PDF in GitHub](https://img.shields.io/badge/View%20PDF-GitHub-black?logo=github)](https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025/blob/main/PyPSA-Introduction-V1.pdf)
+
+
 ## Getting Started
 
 ### Option 1: Google Colab (Recommended for Beginners)
@@ -55,8 +60,9 @@ To run the notebooks locally:
 
 This course consists of multiple lessons covering different aspects of PyPSA:
 
-- **Lesson 1: PyPSA Demystified** - Core concepts, best practices, and new features
-- **Lesson 2: Advanced PyPSA** - More complex modeling scenarios
+- **Part 1:** Getting started with PyPSA
+- **Part 2:** Developing a model using Excel
+- **Part 3:** Compare scenarios
 
 Each lesson includes:
 - Conceptual explanations

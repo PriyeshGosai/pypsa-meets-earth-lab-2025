@@ -4,6 +4,12 @@
 
 Welcome to the PyPSA Meets Earth Lab 2025 course materials! This repository contains interactive Jupyter notebooks and course materials for learning energy system modelling with PyPSA.
 
+Access the accompanying presentation at this link:
+
+[![View PDF in GitHub](https://img.shields.io/badge/View%20PDF-GitHub-black?logo=github)](https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025/blob/main/PyPSA-Introduction-V1.pdf)
+
+
+
 ## About
 
 This course provides hands-on training and practical examples for energy system modelling using PyPSA (Python for Power System Analysis). The materials are designed to help you understand and work with modern power and energy systems.
@@ -76,7 +82,7 @@ If you'd like to build the Jupyter Book locally:
 
 - **Part 1:** Getting started with PyPSA
 - **Part 2:** Developing a model using Excel
-- **Part 3: Compare scenarios**
+- **Part 3:** Compare scenarios
 
 ## Case Study Disclaimer
 
