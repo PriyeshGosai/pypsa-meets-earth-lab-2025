@@ -24,16 +24,16 @@ ENV/
 *.nc
 *.tiff
 *.tif
+*.xlsx
 data/
 
 
+# Allow the scenario data
+!network_ZA.xlsx
+
 # Temporary HTML outputs from notebooks
 *.html
-# But keep the logo
-!logo.png
 
-# Excel outputs from notebooks
-# *.xlsx # Allow excel files, but manually manage file size.
 
 # Cleared notebooks
 *cleared.ipynb
