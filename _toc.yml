@@ -4,9 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: Lesson_1
-  title: "Lesson 1: PyPSA Demystified"
-- file: components
-  title: "PyPSA Components Reference"
-- file: Lesson_2
-  title: "Lesson 2: Advanced PyPSA"
+- file: 1_getting_started_with_pypsa
+  title: "Part 1: Getting Started with PyPSA"
+- file: 2_building_a_network_using_excel
+  title: "Part 2: Building a Network Using Excel"
+- file: 3_compare_scenarios
+  title: "Part 3: Compare Scenarios"

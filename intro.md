@@ -71,8 +71,8 @@ Each lesson includes:
 ## Contact
 
 **Instructor:** Priyesh Gosai
-**Organization:** Innovate for Impact
-**Email:** priyesh@innovateimpact.com
+**Organization:** PAS-SA
+**Email:** pgosai@pas-sa.co.za
 
 ## License
 

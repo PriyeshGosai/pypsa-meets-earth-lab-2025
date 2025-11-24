@@ -18,12 +18,14 @@ venv/
 env/
 ENV/
 
+
 # Data files (keep repository light)
 *.geojson
 *.nc
 *.tiff
 *.tif
 data/
+img/
 
 # Temporary HTML outputs from notebooks
 *.html
@@ -31,7 +33,7 @@ data/
 !logo.png
 
 # Excel outputs from notebooks
-*.xlsx
+# *.xlsx # Allow excel files, but manually manage file size.
 
 # Cleared notebooks
 *cleared.ipynb
