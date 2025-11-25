@@ -28,7 +28,7 @@ Access the accompanying presentation at this link.
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
   <div>
     <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
-    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Systems</p>
+    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Solutions</p>
     <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
     <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
     <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
@@ -92,6 +92,37 @@ Each lesson includes:
 - **PyPSA Documentation:** [https://pypsa.org](https://pypsa.org)
 - **PyPSA-Earth:** [https://github.com/pypsa-meets-earth](https://github.com/pypsa-meets-earth)
 - **Course Repository:** [https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025](https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025)
+
+
+## Further Learning
+- [Post by Dr. Max Parzen on OpenMod](https://forum.openmod.org/t/getting-started-with-energy-system-modelling-free-courses-tips/5360)
+- [Data Science for Energy System Modelling](https://fneum.github.io/data-science-for-esm/intro.html)
+- [Integrated Energy Grids course](https://martavp.github.io/integrated-energy-grids/intro.html)
+
+## Acknowledgements 
+
+This notebook has been developed over several years. Earlier versions were shared with participants by email, an approach that came with plenty of complications. Its current form is far more polished and user-friendly.
+
+A sincere thank-you to the following people and organisations whose support, feedback, and ideas—direct or indirect—have shaped the development of this notebook:
+
+- **Rohan Udith** — PAS-SA  
+- **Carole Rosenlund** — International Centre for Hydropower  
+- **Darren Chown** — Chown and Associates  
+- **Dr. Graeme Chown** — Chown and Associates  
+- **Hans-Aldrid Breseden** — Breseden Consulting  
+- **Dr. Fabian Hoffmann** — Open Energy Transition
+- **Dr. Daniel Rudt** — Open Energy Transition  
+- **Dr. Daniele Leerde** — Open Energy Transition  
+- **Dr. Fabrizio Finozzi** — Open Energy Transition  
+- **Emmanuel Bolarinwa** — Open Energy Transition  
+- **Dr. Ekaterina Fedotova** — Open Energy Transition  
+- **Applied Thermofluid Process Modelling Research Unit** — University of Cape Town  
+- **Dr. Fabian Neumann** — Technische Universität Berlin  
+- **Assoc. Prof. Martha Victoria** — Technical University of Denmark (DTU)
+
+
+
+
 
 ## License
 

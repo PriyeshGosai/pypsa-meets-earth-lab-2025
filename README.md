@@ -18,7 +18,7 @@ This course provides hands-on training and practical examples for energy system 
   <div>
     <h3 style="margin-top: 0;">Instructor</h3>
     <p style="margin: 5px 0; font-size: 20px;"><strong>Priyesh Gosai</strong></p>
-    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Systems</p>
+    <p style="margin: 2px 0; font-size: 14px;">PAS-SA • Director: Energy Solutions</p>
     <hr style="margin: 12px 0; border: none; border-top: 1px solid #000000ff;">
     <p style="margin: 6px 0; font-size: 13px;"><a href="mailto:pgosai@pas-sa.co.za">pgosai@pas-sa.co.za</a></p>
     <p style="margin: 6px 0; font-size: 13px;"><a href="https://www.linkedin.com/in/gosaip/">LinkedIn</a> | <a href="https://github.com/PriyeshGosai">GitHub</a> | <a href="https://www.pas-sa.co.za">Website</a></p>
